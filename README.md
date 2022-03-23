@@ -1,2 +1,2 @@
-# task1python
-this is my first task in python
+# taskpython
+this is my solutions of tasks in python in Social
